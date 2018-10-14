@@ -1,0 +1,28 @@
+{
+  "name": "oauth2.0sociallogin",
+  "version": "1.0.0",
+  "description": "Auth2.0, GitHub, Node Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashenjy/OAuth2.0SocialLogin.git"
+  },
+  "keywords": [
+    "Auth2.0",
+    "GitHub",
+    "NodeJs"
+  ],
+  "author": "Ashen Jayasinghe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashenjy/OAuth2.0SocialLogin/issues"
+  },
+  "homepage": "https://github.com/ashenjy/OAuth2.0SocialLogin#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.3"
+  }
+}
